@@ -1,2 +1,3 @@
 Flask
+gunicorn # 추가, 버젼은 명시 하지 않는 것이 좋겠지?
 google-cloud-storage
